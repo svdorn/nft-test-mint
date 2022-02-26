@@ -1,3 +1,11 @@
-# 🗃 NFT Minter Tutorial Starter Files
+# Arbimint 
+A generalized NFT minter for Arbitrum.
 
-This project contains the starter files for [Alchemy's NFT Minter tutorial](https://docs.alchemyapi.io/alchemy/tutorials/nft-minter), in which we teach you how to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3.
+## Start
+```npm install```
+
+```npm start```
+
+To get Arbitrum rinkeby testnet ETH for mint testing, use ```https://faucet.paradigm.xyz/``` and make sure to claim tokens for all networks.
+
+
