@@ -17,4 +17,18 @@ Start the site locally:
 npm start
 ```
 
+
+## Connecting to the testnet
+### Add to Metamask
+If you're using Metamask, add a custom RPC network to connect to the Arbitrum testnet:
+
+```
+Network Name: Arbitrum Testnet
+RPC URL: https://rinkeby.arbitrum.io/rpc
+ChainID: 421611
+Symbol: ETH
+Block Explorer URL: https://rinkeby-explorer.arbitrum.io/#/
+```
+
+### Add testnet funds
 To get Arbitrum rinkeby testnet ETH for mint testing, use ```https://faucet.paradigm.xyz/``` and make sure to claim tokens for all networks.
